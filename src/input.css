@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-link{
+    @apply border-b-2 border-yellow-400
+}
+    
